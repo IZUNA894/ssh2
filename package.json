@@ -1,8 +1,8 @@
 {
   "name": "ssh2",
   "version": "1.5.0",
-  "author": "Brian White <mscdex@mscdex.net>",
-  "description": "SSH2 client and server modules written in pure JavaScript for node.js",
+  "author": "Izuna <jainsanyamco@gmail.com>",
+  "description": "SSH2 module with my some fixes.",
   "main": "./lib/index.js",
   "engines": {
     "node": ">=10.16.0"
@@ -14,10 +14,6 @@
   "devDependencies": {
     "@mscdex/eslint-config": "^1.0.0",
     "eslint": "^7.0.0"
-  },
-  "optionalDependencies": {
-    "cpu-features": "0.0.2",
-    "nan": "^2.15.0"
   },
   "scripts": {
     "install": "node install.js",
@@ -36,14 +32,8 @@
     "remote",
     "client"
   ],
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://github.com/mscdex/ssh2/raw/master/LICENSE"
-    }
-  ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/ssh2.git"
+    "url": "https://github.com/IZUNA894/ssh2.git"
   }
 }
