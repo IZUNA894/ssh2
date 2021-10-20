@@ -1,5 +1,5 @@
 {
-  "name": "ssh2",
+  "name": "@izuna/ssh2",
   "version": "1.5.0",
   "author": "Izuna <jainsanyamco@gmail.com>",
   "description": "SSH2 module with my some fixes.",
